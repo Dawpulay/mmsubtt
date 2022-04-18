@@ -1,0 +1,99 @@
+
+.inner{
+    display: inline-block;
+    width:50%;
+    
+    
+}
+
+
+
+
+.left{
+    display: inline-block;
+  
+    width: 50%;
+}
+
+.right{
+    display: inline-block;
+    
+    width:45%;
+}
+
+.container{
+    
+    
+}
+
+
+
+.photo{
+    
+    width: 100%;
+}
+
+.mother{
+    margin-left: 200px;
+    margin-right: 200px;
+  
+
+}
+
+.google{
+    width: 40%;
+}
+
+.logo{
+    width: 30px;
+}
+
+.blockelement{
+    display: block;
+    margin-bottom:px;
+    margin-top:15px;
+    width: 250px;
+    height: 30px;
+    outline:none;
+    border-style:none;
+    border-radius:24px;
+    padding-left:15px;
+    background-color:lightgray;
+}
+
+.box{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.myanmar{
+    display:inline-block;
+    border-radius: 24px;
+    background-color:#0084ff;
+    color: whitesmoke;
+    font-size:16px;
+    padding:2px 1px 0;
+    width: 60px;
+    height:30px;
+    
+}
+
+.flexcontainer{
+    display:flex;
+    background-color:yellow ;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.menuitem{
+    text-decoration: none;
+    color:inherit;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.bottom{
+    font-size: 30px;
+    text-align: center;
+    background-color:red
+}
